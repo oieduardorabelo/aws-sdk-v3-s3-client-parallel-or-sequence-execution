@@ -1,6 +1,6 @@
 # Parallel or Sequence exectution of AWS SDK v3 S3 Client
 
-Example of how to use the AWS SDK v3 S3 client to upload files to S3 in parallel or sequential.
+Example of how to use the AWS SDK v3 S3 client to upload files to S3 in parallel or sequence execution.
 
 ## Requirements
 
