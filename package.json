@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.295.0",
+    "dotenv": "^16.0.3"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 4
+  }
+}
