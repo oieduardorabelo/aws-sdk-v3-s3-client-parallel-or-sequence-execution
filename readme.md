@@ -15,6 +15,9 @@ Using `Promise.all` to upload files in parallel.
 
 -   [Create 1000 files in parallel](./thousand-files-create-promise-all.js)
 -   [Delete 1000 files in parallel](./thousand-files-delete-promise-all.js)
+-   [Get 1000 files in parallel](./thousand-files-get-promise-all.js)
+
+[Thousand Get Video](https://user-images.githubusercontent.com/829902/226739543-d7647c45-6894-4ff9-abe0-76d2b3d9e1eb.webm)
 
 ## Sequence
 
